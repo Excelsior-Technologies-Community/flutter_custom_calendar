@@ -34,8 +34,10 @@ class New extends StatelessWidget {
       body: Column(
         children: [
           CustomCalendar(
+            // timeSelectButtonText: 'Select time',
+            // holidaySelectColor: Colors.yellow,
             events: {
-              DateTime(2026, 1, 15): ["Meeting"],
+              DateTime(2026, 1, 15): ["Meeting","Dinner"],
               DateTime(2026, 1, 20): ["Birthday"],
             },
             holidays: {

@@ -1,7 +1,7 @@
 name: custom_calendar
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_custom_calendar/tree/stages_branch
 
 environment:
   sdk: ^3.8.1
