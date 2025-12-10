@@ -45,12 +45,12 @@ Add dependency in your pubspec.yaml:
 ```
 dependencies:
     custom_calendar:
-    path: ".../flutter_custom_calendar/custom_calendar" # your path
+      path: ".../flutter_custom_calendar/custom_calendar" # your path
 ```
 from git:
 ```
 dependencies:
-  flutter_image_crop:
+  custom_calendar:
     git:
       url: https://github.com/yourusername/flutter_custom_calendar/custom_calendar.git
 ```
